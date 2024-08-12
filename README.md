@@ -1,5 +1,5 @@
 # R_project_Alzheimers_Patient
-The following project is a part of coursework of the module "Statistical Data Analysis and Visualization" for the M.Sc. Data Science Course at the Nottingham Trent University.
+The following project is a part of coursework of the module "**Statistical Data Analysis and Visualization**" for the **M.Sc. Data Science** Course at the **Nottingham Trent University, Nottingham, England, United Kingdom**.
 - **Title**: Analysing and Visualizing Alzheimer’s Patient Dataset.
 
 ## Introduction
